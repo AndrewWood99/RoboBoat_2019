@@ -1,5 +1,5 @@
 # RoboBoat 2019
-<img src="https://github.com/user-attachments/assets/30b754f8-e4f5-4d85-b935-55cfc2f6f187" width="300">
+<img src="https://github.com/user-attachments/assets/8dda1f22-c125-45ad-85f7-ad4f9a5094d7" width="300">
 
 ## Mission
 Design an autonomous, robotic boat to navigate and interact with an aquatic obstacle course. 
