@@ -12,7 +12,3 @@ Lead trimaran hull research, oversee full platform CAD model, coordinate custom
 azimuth thruster design and fabrication, instruct newer members, report to Robotics Association leadership.
 
 <img src="https://github.com/user-attachments/assets/14c89299-8930-48a4-9519-c6bfe91ff368" width="200">
-
-## My Contributions
-Created navigation algorithm using custom MATLAB/Simulink model and LabVIEW.
-
